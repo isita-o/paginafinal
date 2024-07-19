@@ -12,7 +12,7 @@
      
 }
 body{
-    background-image: url("fondos.jpg" );
+    background-image: url("fondo3.jpg" );
     
 
 }
@@ -20,11 +20,19 @@ body{
 
 .imagen1{
 
-height: 300px;
-width: 300px;
-background-image: url("descarga.jpg");
+height: 289px;
+width: 352px;
+background-image: url("circuito1.jpg");
 
 
 
+}
+
+.imagen2{
+
+    height: 288px;
+width: 622px;
+background-image: url(circuitos2.jpg);
+background-repeat: no-repeat;
 }
 
