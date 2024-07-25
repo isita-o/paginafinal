@@ -34,5 +34,13 @@ background-image: url("circuito1.jpg");
 width: 622px;
 background-image: url(circuitos2.jpg);
 background-repeat: no-repeat;
+} 
+
+.tsa1{
+
+    height: 168px;
+    width: 317px;
+    background-image: url(images.jpg);
+
 }
 
