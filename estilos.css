@@ -44,3 +44,17 @@ background-repeat: no-repeat;
 
 }
 
+.anorexia{
+
+    height: 612x;
+    width: 855px;
+    background-image: url(anorexia.jpg);
+}
+
+.bulimia{
+
+    height: 336px;
+    width: 492px;
+    background-image: url(bulimia.jpg);
+    background-repeat: no-repeat;
+}
