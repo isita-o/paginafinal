@@ -174,3 +174,29 @@ background-image: url(excel.JPG);
     width: 261px;
     background-image: url(excel2.jpg);
 }
+
+.imagengeneral{
+
+
+height: 300px;
+width: 279px;
+background-image: url(imagengeneral.jpg);
+background-repeat: no-repeat;
+}
+
+ .hellokitty{
+
+    height: 448px;
+    width: 446px;
+    background-image: url(hellokitty.jpg);
+    background-repeat: no-repeat;
+ }
+
+
+ .moto{
+
+    height: 288px;
+    width: 469px;
+    background-image: url(maxresdefault.jpg);
+    background-repeat: no-repeat;
+ }
