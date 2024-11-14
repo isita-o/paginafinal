@@ -200,3 +200,57 @@ background-repeat: no-repeat;
     background-image: url(maxresdefault.jpg);
     background-repeat: no-repeat;
  }
+
+
+ .regla1{
+
+    height: 231px;
+    width: 468px;
+    background-image: url(regla1.jpg);
+    background-repeat: no-repeat;
+ }
+
+
+ .regla2{
+
+    height: 290px;
+    width: 391px;
+    background-image: url(regla2.jpg);
+    background-repeat: no-repeat;
+ }
+
+ .regla3{
+
+    height: 330px;
+    width: 370px;
+    background-image: url(regla3.jpg);
+    background-repeat: no-repeat;
+ }
+
+
+ .regla4{
+
+    height: 324px;
+    width: 327px;
+    background-image: url(regla4.jpg);
+    background-repeat: no-repeat;
+ }
+
+
+ .regla5{
+
+height: 234px;
+width: 600px;
+background-image: url(regla5.jpg);
+background-repeat: no-repeat;
+
+ }
+
+
+ .regla6{
+
+height: 344px;
+width: 480px;
+background-image: url(regla6.jpg);
+
+ }
