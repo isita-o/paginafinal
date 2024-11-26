@@ -263,3 +263,21 @@ background-image: url(regla6.jpg);
  background-image: url(mapa2.jpg);
 
  }
+
+ .excelimg{
+
+height: 365px;
+width: 654px;
+background-image: url(imagenexcel.jpg);
+background-repeat: no-repeat;
+
+ }
+
+
+ .imgtec{
+
+height: 288px;
+width: 433px;
+background-image: url(imgtec.jpg);
+
+ }
